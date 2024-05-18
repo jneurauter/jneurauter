@@ -1,4 +1,6 @@
-### Hi there 👋
+# 🧙‍♂️ Jackson Neurauter
+
+**`Software + Security Engineer`**
 
 <!--
 **jneurauter/jneurauter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a second year undergraduate student pursuing a Computer Science degree with a focus in Cybersecurity and Artifical Intelligence. I am interested in Machine Learning, Network Security, and Automotive projects and research.
+
+---
