@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a second year undergraduate student pursuing a Computer Science degree with a focus in Cybersecurity and Artifical Intelligence. I am interested in Machine Learning, Network Security, and Automotive projects and research.
+I'm a second year undergraduate student pursuing a Computer Science degree with a focus in Cybersecurity and Artifical Intelligence. I am interested in Machine Learning, Network Security, and Automotive projects and research.
 
 ---
