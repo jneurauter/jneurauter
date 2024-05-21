@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a third year undergraduate student pursuing a Computer Science degree with a focus in Cybersecurity and Artifical Intelligence. I have experience in both front end and back end development using an assortment of languages. Specifically, I have the most experience with java, python, C++, and HTML. With regard to Cybersecurity, I have 7 certifications in the realm of the management and security of network and computer systems. Current work consists of development of vehicle testing simulation software. I am interested in Machine Learning, Network Security, and Automotive projects and research.
+I'm an undergraduate student pursuing a Computer Science degree with a focus in Cybersecurity and Artifical Intelligence. I have experience in both front end and back end development using an assortment of languages. Specifically, I have significant experience with java, python, C++, and HTML. With regard to Cybersecurity, I have 7 certifications in the realm of the management and security of network and computer systems. Current work consists of development of vehicle testing simulation software. I am interested in Machine Learning, Network Security, and Automotive projects and research.
 
-<ul>
+<!-- <ul>
     <li>internship experience with C++ and microcontrollers</li>
     <li>internship experience with python, html, css, js</li>
     <li>cybersecurity/networking certifications</li>
     <li></li>
     <li></li>
     <li></li>
-</ul>
+</ul> -->
 
 ---
 ### 🧰 Languages and Tools
