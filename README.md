@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an undergraduate student at Georgia Tech pursuing a Computer Science degree with a focus in Cybersecurity and Artifical Intelligence. I have experience in both front end and back end development using an assortment of languages. Specifically, I have significant experience with Python, Java/Typescript, C/C++, and Java. With regard to Cybersecurity, I have 7 certifications in the realm of the management and security of network and computer systems. Current work consists of development of vehicle testing simulation software. I am interested in Machine Learning, Network Security, and Automotive projects and research.
+I'm an undergraduate student at Georgia Tech pursuing a Computer Science degree with a focus in Cybersecurity and Artifical Intelligence. I have experience in full-stack and embedded development using an assortment of languages. Specifically, I have significant experience with Python, Java/Typescript, C/C++, and Java. With regard to Cybersecurity, I have 7 certifications in the realm of the management and security of network and computer systems. Current work consists of development of vehicle testing simulation software. I am interested in Machine Learning, Network Security, and Automotive projects and research.
 
 <!-- <ul>
     <li>internship experience with C++ and microcontrollers</li>
